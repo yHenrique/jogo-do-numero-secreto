@@ -2,6 +2,8 @@
 
 O Jogo do Número Secreto é um desafio de programação de nível iniciante, desenvolvido pela plataforma Alura para o curso Santander Imersão Digital Mobile - Nivelamento.
 
+Nesse jogo, o computador gera um número aleatório e o usuário deve tentar adivinhá-lo seguindo algumas dicas.
+
 O módulo em questão continha conteúdos básicos para programação na linguagem Javascript:
 - Manipulação de textos;
 - Criação de funções;
