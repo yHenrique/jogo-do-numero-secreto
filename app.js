@@ -1,4 +1,4 @@
-let numeroLimite = 100;
+let numeroLimite = 50;
 let quantidadeTentativas = 0;
 let numerosSorteados = [];
 let numeroSecreto = sortearNumeroSecreto();
